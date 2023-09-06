@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MathematicalConstants", "MathmaticalConstants\MathematicalConstants.csproj", "{C9F34812-7026-4B99-A8A4-094AFB766437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9F34812-7026-4B99-A8A4-094AFB766437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9F34812-7026-4B99-A8A4-094AFB766437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9F34812-7026-4B99-A8A4-094AFB766437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9F34812-7026-4B99-A8A4-094AFB766437}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C704D59D-55BD-432F-B6F3-505E24813044}
+	EndGlobalSection
+EndGlobal
