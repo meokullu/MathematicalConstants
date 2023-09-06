@@ -2,17 +2,20 @@
 
 Mathematical Constants is a library offers mathematical constants.
 
-![MathematicalConstants]()
+![MathematicalConstants](https://repository-images.githubusercontent.com/687945668/7b7abd90-3ba9-4b1b-8709-1a88a0eb28c1)
 
 [Check out on NuGet gallery](https://www.nuget.org/packages/MathematicalConstants/)
 
 ## Description
 
-CalculateETA has methods to calculate estimated time to finish on loops. It calculates left count of iteration and multiply it with avarage passed time on the loop. On multi-thread applications, it has internal counter that increases everytime methods works via using that calculating left count of loop and multiply it with avarage passed time on the loop.
-
-CalculateETA is optimized for CPU-intense applications.
+## Numbers
+* Number e
+* Number pi
+* Number phi
 
 ## Listed Methods
+
+
 
 ## Example Usage
 
