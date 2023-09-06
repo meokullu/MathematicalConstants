@@ -8,7 +8,14 @@ Mathematical Constants is a library offers mathematical constants.
 
 ## Description
 
+## Numbers
+* Number e
+* Number pi
+* Number phi
+
 ## Listed Methods
+
+
 
 ## Example Usage
 
