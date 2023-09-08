@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Mathematical Constants</Title>
-    <Version>1.0.1</Version>
+    <Version>1.1.0</Version>
     <Authors>Okullu</Authors>
     <Description>Mathematical Constants is a library, offers 42 mathematical constants upto one million digit on string format.</Description>
     <Copyright>Okullu</Copyright>
@@ -15,8 +15,8 @@
 34 additional constants are added.
 Wikipedia links are added to each constant.
 "#.####" format first five digits are added into summaries.</PackageReleaseNotes>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
+    <AssemblyVersion>1.1.0</AssemblyVersion>
+    <FileVersion>1.1.0</FileVersion>
     <PackageLicenseFile>LICENCE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/meokullu/MathematicalConstants</RepositoryUrl>
@@ -44,7 +44,11 @@ Wikipedia links are added to each constant.
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
-    <None Update="README.md">
+    <None Include="..\LICENCE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
