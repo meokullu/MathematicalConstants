@@ -40,18 +40,6 @@ Wikipedia links are added to each constant.
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="LICENCE">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-    <None Include="..\LICENCE">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
-    <None Include="..\README.md">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
     <None Include="..\LICENCE">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
