@@ -9,201 +9,52 @@ Mathematical Constants is a library offers mathematical constants on string form
 ## Description
 
 ## Numbers
-* Phi.
-	* Number: "1.6180..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio)
-	* [Oeis](https://oeis.org/A001622)
-	* Source:
-* Pi.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Euler e.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Square root of Two.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Square root of Three.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Square root of Five.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Apery.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Backhouse.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Bernstein.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Brun Twin Primes.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Cahen.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Catalan.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Conway.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Cube root of Two.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Euler-Mascheorni.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Feigenbaum.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Fransen-Robinson.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Golomb-Dickman.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Hafner-Sarnak-McCurley.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Khincin.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Landau-Ramanujan.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Laplace limit.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Levy.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Liebs Square Ice.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Meissel-Mertens.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Mills.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Niven.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Omega.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Plastic.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Porter.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Ramanujan-Soldner.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Reciporocal Fibonacci.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Sierpinski.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Silver ratio.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Super Golden Ratio.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Twelve root of two.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Twin prime.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Universal parabolic.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
-* Viswanath.
-	* Number: "3.1415..."
-	* [Wikipedia](https://en.wikipedia.org/wiki/Pi)
-	* [Oeis](https://oeis.org/A000796)
-	* Source:
+
+| Numbers 			| First five digits	| Wikipedia link									| Oeis.org link			| Source										|
+| -----------------------------:|:---------------------:| -------------------------------------------------------------------------------------:| -----------------------------:| -------------------------------------------------------------------------------------:|
+| Phi           		| 1.6180		| [Golden Ratio](https://en.wikipedia.org/wiki/Golden_ratio)				| https://oeis.org/A001622 	| [Wikipedia](https://en.wikipedia.org/wiki/Golden_ratio) 				|
+| Pi            		| 3.1414		| [Pi](https://en.wikipedia.org/wiki/Pi)						| https://oeis.org/A000796 	| [Wikipedia](https://en.wikipedia.org/wiki/Pi)						|
+| E				| 			| [E](https://en.wikipedia.org/wiki/E_(mathematical_constant))				| https://oeis.org/A000796   	| [Wikipedia](https://en.wikipedia.org/wiki/E_(mathematical_constant))			|
+| Square root of Two.		| 			| [Square root of 2](https://en.wikipedia.org/wiki/Square_root_of_2)			| https://oeis.org/A002193	| [NASA](https://apod.nasa.gov/htmltest/gifcity/sqrt2.1mil)				|
+| Square root of Three.		| 			| [Square root of 3](https://en.wikipedia.org/wiki/Square_root_of_3)			| https://oeis.org/A002194   	| [NASA](https://apod.nasa.gov/htmltest/gifcity/sqrt3.1mil)				|
+| Square root of Five.		| 			| [Square root of 5](https://en.wikipedia.org/wiki/Square_root_of_5)			| https://oeis.org/A002163   	| [NASA](https://apod.nasa.gov/htmltest/gifcity/sqrt5.1mil)				|
+| Apery.			| 			| [Apery](https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant)			| https://oeis.org/A002117	| [Wikipedia](https://en.wikipedia.org/wiki/Ap%C3%A9ry%27s_constant)			|
+| Artin.			| 			| [Artin](https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots)	| https://oeis.org/A005596	| [Wikipedia](https://en.wikipedia.org/wiki/Artin%27s_conjecture_on_primitive_roots)	|
+| Backhouse.			| 			|											|			   	|											|
+| Bernstein.			| 			|											|			   	|											|
+| Brun Twin Primes.		| 			|											|			   	|											|
+| Cahen.			| 			|						|			   	|						|
+| Catalan.			| 			|						|			   	|						|
+| Conway.			| 			|						|			   	|						|
+| Cube root of Two.		| 			|						|			   	|						|
+| Euler-Mascheorni.		| 			|						|			   	|						|
+| Feigenbaum.			| 			|						|			   	|						|
+| Fransen-Robinson.		| 			|						|			   	|						|
+| Golomb-Dickman.		| 			|						|			   	|						|
+| Hafner-Sarnak-McCurley.	| 			|						|			   	|						|
+| Khincin.			| 			|						|			   	|						|
+| Landau-Ramanujan.		| 			|						|			   	|						|
+| Laplace limit.		| 			|						|			   	|						|
+| Levy.				| 			|						|			   	|						|
+| Liebs Square Ice.		| 			|						|			   	|						|
+| Meissel-Mertens.		| 			|						|			   	|						|
+| Mills.			| 			|						|			   	|						|
+| Niven.			| 			|						|			   	|						|
+| Omega.			| 			|						|			   	|						|
+| Plastic.			| 			|						|			   	|						|
+| Omega.			| 			|						|			   	|						|
+| Porter.			| 			|						|			   	|						|
+| Ramanujan-Soldner.		| 			|						|			   	|						|
+| Reciporocal Fibonacci.	| 			|						|			   	|						|
+| Sierpinski.			| 			|						|			   	|						|
+| Silver ratio.			| 			|						|			   	|						|
+| Sierpinski.			| 			|						|			   	|						|
+| Super Golden Ratio.		| 			|						|			   	|						|
+| Twelve root of two.		| 			|						|			   	|						|
+| Twin prime.			| 			|						|			   	|						|
+| Twin prime.			| 			|						|			   	|						|
+| Universal parabolic.		| 			|						|			   	|						|
+| Viswanath.			| 			|						|			   	|						|
 
 ## Listed Methods
 
