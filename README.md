@@ -34,7 +34,7 @@ String formatted mathematical constants are presented with their Wikipedia link,
 | De Vicci Tesseract.		| 1.0074	| [De Vicci Tesseract](https://en.wikipedia.org/wiki/Prince_Rupert%27s_cube#Generalizations)			| https://oeis.org/A243309	| [Wikipedia](https://en.wikipedia.org/wiki/Prince_Rupert%27s_cube#Generalizations)			|
 | Dottie.			| 0.7390	| [Dottie](https://en.wikipedia.org/wiki/Dottie_number)								| https://oeis.org/A003957	| [Wikipedia](https://en.wikipedia.org/wiki/Dottie_number)						|
 | Erdos-Borwein.		| 1.6066	| [Erdos-Borwein](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Borwein_constant)				| https://oeis.org/A065442	| [Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Borwein_constant)			|
-| Erdos-Tenenbaum-Ford.		| 0.8607	| [](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tenenbaum%E2%80%93Ford_constan)				| https://oeis.org/A074738	| [Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tenenbaum%E2%80%93Ford_constan)		|
+| Erdos-Tenenbaum-Ford.		| 0.8607	| [Erdos-Tenenbaum-Ford](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tenenbaum%E2%80%93Ford_constan)	| https://oeis.org/A074738	| [Wikipedia](https://en.wikipedia.org/wiki/Erd%C5%91s%E2%80%93Tenenbaum%E2%80%93Ford_constan)		|
 | Euler-Mascheorni.		| 0.5772	| [Euler-Mascheorni](https://en.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant)				| https://oeis.org/A001620	| [Wikipedia](https://en.wikipedia.org/wiki/Euler%E2%80%93Mascheroni_constant)				| 
 | Feigenbaum.			| 2.5029	| [Feigenbaum](https://en.wikipedia.org/wiki/Feigenbaum_constant)						| https://oeis.org/A006891   	| [Wikipedia](https://en.wikipedia.org/wiki/Feigenbaum_constant)					| 
 | Feigenbaum2.			| 4.6692	| [Feigenbaum2](https://en.wikipedia.org/wiki/Feigenbaum_constant)						| https://oeis.org/A006890	| [Wikipedia](https://en.wikipedia.org/wiki/Feigenbaum_constant)					|
@@ -89,15 +89,12 @@ String formatted mathematical constants are presented with their Wikipedia link,
 | Viswanath.			| 1.1319	| [Viswanath](https://en.wikipedia.org/wiki/Random_Fibonacci_sequence)						| https://oeis.org/A078416   	| [Wikipedia](https://en.wikipedia.org/wiki/Random_Fibonacci_sequence)					|
 | Wallis			| 2.0945	| [Wallis](https://en.wikipedia.org/wiki/John_Wallis)								| https://oeis.org/A007493	| [Wikipedia](https://en.wikipedia.org/wiki/John_Wallis)						|
 | Weierstrass			| 0.4749	| [Weierstrass](https://en.wikipedia.org/wiki/Weierstrass)							| https://oeis.org/A094692	| [Wikipedia](https://en.wikipedia.org/wiki/Weierstrass)						|
+
 ## Listed Methods
 
 ## Example Usage
 
 ## Version History
-
-See [commit change](https://github.com/meokullu/MathematicalConstants/commits/master)
-See [release history](https://github.com/meokullu/MathematicalConstants/releases)
-See [changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.MD)
 
 * 1.2.0
 	* 40 additional constatans are added.
@@ -114,7 +111,6 @@ See [changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CH
 * 1.0.0 Initial Release 
   
 ## Task list
-
 - [ ] Add parsing methods into int32 and int64.
 
 ## Licence
