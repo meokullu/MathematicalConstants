@@ -8,13 +8,17 @@
     <Title>Mathematical Constants</Title>
     <Version>1.2.0</Version>
     <Authors>Okullu</Authors>
-    <Description>Mathematical Constants is a library, offers 42 mathematical constants upto one million digit on string format.</Description>
+    <Description>Mathematical Constants is a library, offers 82 mathematical constants upto one million digit on string format.</Description>
     <Copyright>Okullu</Copyright>
     <PackageTags>Math; Mathematic; Numbers; Constants;</PackageTags>
-    <PackageReleaseNotes>v1.1.0
-34 additional constants are added.
-Wikipedia links are added to each constant.
-"#.####" format first five digits are added into summaries.</PackageReleaseNotes>
+    <PackageReleaseNotes>v1.2.0
+    * Added 40 more constants
+    * Added Wikipedia links
+    * Added oeis.org links
+    * Added source links
+    * Fixed typos
+    * Fixed sorting
+    </PackageReleaseNotes>
     <AssemblyVersion>1.2.0</AssemblyVersion>
     <FileVersion>1.2.0</FileVersion>
     <PackageLicenseFile>LICENCE</PackageLicenseFile>
