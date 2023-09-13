@@ -8,6 +8,8 @@ Mathematical Constants is a library offers mathematical constants on string form
 
 ## Description
 
+String formatted mathematical constants are presented with their Wikipedia link, oeis.org link and their source.
+
 ## Numbers
 
 | Numbers 			| First digits	| Wikipedia link												| Oeis.org link			| Source												|
@@ -98,7 +100,11 @@ See [release history](https://github.com/meokullu/MathematicalConstants/releases
 See [changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.MD)
 
 * 1.2.0
-	* 
+	* 40 additional constatans are added.
+ 	* Wikipedia, oeis.org, source links are added.
+  	* Properties are sorted except first six.
+  	* Added missing length properties.
+  	* Added missing first five digits into summaries. 	  
 
 * 1.1.0
    * 34 additional constants are added.
@@ -109,7 +115,6 @@ See [changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CH
   
 ## Task list
 
-- [x] Add other mathematical constants.
 - [ ] Add parsing methods into int32 and int64.
 
 ## Licence
