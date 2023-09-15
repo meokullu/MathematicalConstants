@@ -96,6 +96,9 @@ String formatted mathematical constants are presented with their Wikipedia link,
 
 ## Version History
 
+* 1.3.0
+    * Multi-target frameworks (net6.0; net7.0; net461; netcoreapp3.1; netstandard2.0) support is added.
+
 * 1.2.0
 	* 40 additional constatans are added.
  	* Wikipedia, oeis.org, source links are added.
