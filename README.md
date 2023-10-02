@@ -96,6 +96,9 @@ String formatted mathematical constants are presented with their Wikipedia link,
 
 ## Version History
 
+* 1.3.1
+    * Icon was replaced with higher resoulution.
+
 * 1.3.0
     * Multi-target frameworks (net6.0; net7.0; net461; netcoreapp3.1; netstandard2.0) support is added.
 
