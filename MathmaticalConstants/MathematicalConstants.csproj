@@ -5,16 +5,14 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Mathematical Constants</Title>
-    <Version>1.3.0</Version>
+    <Version>1.3.1</Version>
     <Authors>Enes Okullu</Authors>
     <Description>Mathematical Constants is a library, offers 82 mathematical constants upto one million digit on string format.</Description>
     <Copyright>Enes Okullu</Copyright>
     <PackageTags>Math; Mathematic; Numbers; Constants;</PackageTags>
-    <PackageReleaseNotes>v1.3.0
-Multi-target frameworks (net6.0; net7.0; net461; netcoreapp3.1; netstandard2.0) support is added.
-    </PackageReleaseNotes>
-    <AssemblyVersion>1.3.0</AssemblyVersion>
-    <FileVersion>1.3.0</FileVersion>
+    <PackageReleaseNotes>Icon was replaced with higher resolution.</PackageReleaseNotes>
+    <AssemblyVersion>1.3.1</AssemblyVersion>
+    <FileVersion>1.3.1</FileVersion>
     <PackageLicenseFile>LICENCE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/meokullu/MathematicalConstants</RepositoryUrl>
