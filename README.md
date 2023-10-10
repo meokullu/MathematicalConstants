@@ -1,4 +1,4 @@
-# Mathematical Constants
+## Mathematical Constants
 
 Mathematical Constants is a library offers mathematical constants on string format. Currently 82 constants are available upto one million digit.
 
@@ -6,11 +6,11 @@ Mathematical Constants is a library offers mathematical constants on string form
 
 [Check out on NuGet gallery](https://www.nuget.org/packages/MathematicalConstants/)
 
-## Description
+### Description
 
 String formatted mathematical constants are presented with their Wikipedia link, oeis.org link and their source.
 
-## Numbers
+### Numbers
 
 | Numbers 			| First digits	| Wikipedia link												| Oeis.org link			| Source												|
 | -----------------------------:|:-------------:| -------------------------------------------------------------------------------------------------------------:| -----------------------------:| -----------------------------------------------------------------------------------------------------:|
@@ -90,40 +90,19 @@ String formatted mathematical constants are presented with their Wikipedia link,
 | Wallis			| 2.0945	| [Wallis](https://en.wikipedia.org/wiki/John_Wallis)								| https://oeis.org/A007493	| [Wikipedia](https://en.wikipedia.org/wiki/John_Wallis)						|
 | Weierstrass			| 0.4749	| [Weierstrass](https://en.wikipedia.org/wiki/Weierstrass)							| https://oeis.org/A094692	| [Wikipedia](https://en.wikipedia.org/wiki/Weierstrass)						|
 
-## Listed Methods
+### Example Usage
 
-## Example Usage
+### Version History
+See [Changelog](https://github.com/meokullu/MathmematicalConstants/blob/master/CHANGELOG.md)
 
-## Version History
-
-* 1.3.1
-    * Icon was replaced with higher resoulution.
-
-* 1.3.0
-    * Multi-target frameworks (net6.0; net7.0; net461; netcoreapp3.1; netstandard2.0) support is added.
-
-* 1.2.0
-	* 40 additional constatans are added.
- 	* Wikipedia, oeis.org, source links are added.
-  	* Properties are sorted except first six.
-  	* Added missing length properties.
-  	* Added missing first five digits into summaries. 	  
-
-* 1.1.0
-   * 34 additional constants are added.
-   * Wikipedia links are added to each constant.
-   * "#.####" format first five digits are added into summaries.
-
-* 1.0.0 Initial Release 
-  
-## Task list
+### Task list
 - [ ] Add parsing methods into int32 and int64.
 
-## Licence
+### Licence
 [MIT license](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE)
 
-## Authors
+### Authors
 Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
 
-## Help
+### Help
 Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
