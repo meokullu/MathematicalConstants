@@ -93,7 +93,7 @@ String formatted mathematical constants are presented with their Wikipedia link,
 ### Example Usage
 
 ### Version History
-See [Changelog](https://github.com/meokullu/MathmematicalConstants/blob/master/CHANGELOG.md)
+See [Changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.md)
 
 ### Task list
 - [ ] Add parsing methods into int32 and int64.
