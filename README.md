@@ -96,7 +96,7 @@ String formatted mathematical constants are presented with their Wikipedia link,
 See [Changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.md)
 
 ### Task list
-- [ ] Add parsing methods into int32 and int64.
+* Create an issue or check task list: [Issues](https://github.com/meokullu/MathematicalConstants/issues)
 
 ### Licence
 [MIT license](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE)
