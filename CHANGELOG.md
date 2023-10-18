@@ -10,9 +10,15 @@
 ### Removed
 -->
 
-## [1.3.x] (Upcoming)
-*
-*
+## [1.3.2]
+
+### Added
+* CHANGELOG link added under Version History on README.
+
+### Changed
+* Project folder renamed from MathmaticalConstants to MathematicalConstants.
+* Cleaner view on README.
+* Tag under PackageTags is changed from Mathematic to Mathematical.
 
 ## [1.3.1]
 
