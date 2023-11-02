@@ -1,4 +1,5 @@
 ## Mathematical Constants
+[![MathematicalConstants](https://img.shields.io/nuget/v/MathematicalConstants.svg)](https://www.nuget.org/packages/MathematicalConstants/) [![CalculateETA](https://img.shields.io/nuget/dt/MathematicalConstants.svg)](https://www.nuget.org/packages/MathematicalConstants/) [![License](https://img.shields.io/github/license/meokullu/MathematicalConstants.svg)](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE)
 
 Mathematical Constants is a library offers mathematical constants on string format. Currently 82 constants are available upto one million digit.
 
@@ -99,10 +100,13 @@ See [Changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CH
 * Create an issue or check task list: [Issues](https://github.com/meokullu/MathematicalConstants/issues)
 
 ### Licence
-[MIT license](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE)
+This repository is licensed under the "MIT" license. See [MIT license](https://github.com/meokullu/MathematicalConstants/blob/master/LICENSE).
 
-### Authors
-Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
+### Authors & Contributing
+
+If you'd like to contribute, then contribute. <!-- [contributing guide](CONTRIBUTING.md). -->
+
+[![Contributors](https://contrib.rocks/image?repo=meokullu/MathematicalConstants)](https://github.com/meokullu/MathematicalConstants/graphs/contributors)
 
 ### Help
 Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
