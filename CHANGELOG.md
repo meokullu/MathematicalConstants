@@ -1,52 +1,54 @@
 ## MathematicalConstants Changelog
+[![CalculateETA](https://img.shields.io/nuget/v/MathematicalConstants.svg)](https://www.nuget.org/packages/MathematicalConstants/)
 
 <!--
-## [Unreleased]
+### [Unreleased]
 
-### Added
+#### Added
 
-### Changed
+#### Changed
 
-### Removed
+#### Removed
 -->
 
-## [1.3.2]
+### [1.3.2]
 
-### Added
+#### Added
 * CHANGELOG link added under Version History on README.
 
-### Changed
+#### Changed
 * Project folder renamed from MathmaticalConstants to MathematicalConstants.
 * Cleaner view on README.
 * Tag under PackageTags is changed from Mathematic to Mathematical.
 
-## [1.3.1]
+### [1.3.1]
 
-### Changed
+#### Changed
  * Icon was replaced with higher resoulution.
 
-## [1.3.0]
+### [1.3.0]
 
-### Added
+#### Added
 * Multi-target frameworks (net6.0; net7.0; net461; netcoreapp3.1; netstandard2.0) support is added.
 
-## [1.2.0]
+### [1.2.0]
 
-### Added
+#### Added
 * 40 additional constatans are added.
 * Wikipedia, oeis.org, source links are added.
 * Added missing length properties.
 * Added missing first five digits into summaries. 	  
 
-### Changed
+#### Changed
 * Properties are sorted except first six.
 
-## [1.1.0]
+### [1.1.0]
 
-### Added
+#### Added
 
 * 34 additional constants are added.
 * Wikipedia links are added to each constant.
 * "#.####" format first five digits are added into summaries.
 
-## [1.0.0] (Initial Release)
+### [1.0.0]
+Initial version.
