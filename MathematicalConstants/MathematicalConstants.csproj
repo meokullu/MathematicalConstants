@@ -5,17 +5,19 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Mathematical Constants</Title>
-    <Version>1.3.2</Version>
+    <Version>1.3.3</Version>
     <Authors>Enes Okullu</Authors>
     <Description>Mathematical Constants is a library, offers 82 mathematical constants upto one million digit on string format.</Description>
     <Copyright>Enes Okullu</Copyright>
     <PackageTags>Math; Mathematical; Numbers; Constants;</PackageTags>
     <PackageReleaseNotes>
-      v1.3.2 Type on file and folder names are fixed. (from Mathametical to Mathematical)
+      v1.3.3
+      * New design README.
+      * New design CHANGELOG.
       See changelog (https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.md)
     </PackageReleaseNotes>
-    <AssemblyVersion>1.3.2</AssemblyVersion>
-    <FileVersion>1.3.2</FileVersion>
+    <AssemblyVersion>1.3.3</AssemblyVersion>
+    <FileVersion>1.3.3</FileVersion>
     <PackageLicenseFile>LICENCE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/meokullu/MathematicalConstants</RepositoryUrl>
