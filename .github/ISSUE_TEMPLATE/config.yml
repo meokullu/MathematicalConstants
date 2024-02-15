@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
   - name: Discussions
-    url: https://github.com/meokullu/CalculateETA/discussions
+    url: https://github.com/meokullu/MathematicalConstants/discussions
     about: Please ask and answer questions here.
   - name: Issues
-    url: https://github.com/meokullu/CalculateETA/issues
+    url: https://github.com/meokullu/MathematicalConstants/issues
     about: Please report security vulnerabilities here.
   - name: Pull Request
-    url: https://github.com/meokullu/CalculateETA/pulls
+    url: https://github.com/meokullu/MathematicalConstants/pulls
     about: Please do PR here.
