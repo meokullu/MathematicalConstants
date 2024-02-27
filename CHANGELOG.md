@@ -1,5 +1,5 @@
 ## MathematicalConstants Changelog
-[![CalculateETA](https://img.shields.io/nuget/v/MathematicalConstants.svg)](https://www.nuget.org/packages/MathematicalConstants/)
+[![MathematicalConstants](https://img.shields.io/nuget/v/MathematicalConstants.svg)](https://www.nuget.org/packages/MathematicalConstants/)
 
 <!--
 ### [Unreleased]
@@ -10,6 +10,10 @@
 
 #### Removed
 -->
+
+### [1.3.4]
+#### Changed
+* Number data moved to `data.cs` which is under `src` folder.
 
 ### [1.3.3]
 
