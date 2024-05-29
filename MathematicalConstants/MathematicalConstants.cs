@@ -1,12 +1,112 @@
-﻿using static MathematicalConstants.MathematicalConstants;
+﻿using System;
+using System.Text;
 
-namespace MathmeticalConstants
+namespace MathematicalConstants
 {
     /// <summary>
     /// Mathmetical Constants Helpers
     /// </summary>
     public partial class MathematicalConstants
     {
+        /// <summary>
+        /// Convert string data to int32.
+        /// </summary>
+        /// <param name="data">String format of data provided by MathematicalConstants.</param>
+        /// <param name="startIndex">Starting index. Must be higher than 1.</param>
+        /// <param name="endIndex">Ending index. Must be equal or higher than startingIndex.</param>
+        /// <returns>integer of conversion.</returns>
+        /// <exception cref="Exception">Throws exception if startingIndex and endingIndex is negative. Throws exception if endIndex is lower than startIndex. Throws exception if startIndex is lower than 1. Throws exception if converted data overflows int32.</exception>
+        public static int ToInt32(string data, int startIndex, int endIndex)
+        {
+            if (startIndex < 0 && endIndex < 0)
+            {
+                throw new Exception("startIndex and endIndex must be positive numbers.");
+            }
+
+            if (endIndex < startIndex)
+            {
+                throw new Exception("endIndex must be higher than startIndex");
+            }
+
+            if (startIndex < 1)
+            {
+                throw new Exception("startIndex must be higher than in order to return integer data.");
+            }
+
+            int.TryParse(data.Substring(startIndex, (endIndex-startIndex)), out int result);
+
+            return result;
+        }
+
+        /// <summary>
+        /// Convert string data to int64.
+        /// </summary>
+        /// <param name="data">String format of data provided by MathematicalConstants.</param>
+        /// <param name="startIndex">Starting index. Must be higher than 1.</param>
+        /// <param name="endIndex">Ending index. Must be equal or higher than startingIndex.</param>
+        /// <returns>integer of conversion.</returns>
+        /// <exception cref="Exception">Throws exception if startingIndex and endingIndex is negative. Throws exception if endIndex is lower than startIndex. Throws exception if startIndex is lower than 1. Throws exception if converted data overflows int64.</exception>
+        public static long ToInt64(string data, int startIndex, int endIndex)
+        {
+            if (startIndex < 0 && endIndex < 0)
+            {
+                throw new Exception("startIndex and endIndex must be positive numbers.");
+            }
+
+            if (endIndex < startIndex)
+            {
+                throw new Exception("endIndex must be higher than startIndex");
+            }
+
+            if (startIndex < 1)
+            {
+                throw new Exception("startIndex must be higher than in order to return integer data.");
+            }
+
+            long.TryParse(data.Substring(startIndex, (endIndex-startIndex)), out long result);
+
+            return result;
+        }
+
+        /// <summary>
+        /// Convert string data to double.
+        /// </summary>
+        /// <param name="data">String format of data provided by MathematicalConstants.</param>
+        /// <param name="startIndex">Starting index.</param>
+        /// <param name="endIndex">Ending index. Must be equal or higher than startingIndex.</param>
+        /// <returns>integer of conversion.</returns>
+        /// <exception cref="Exception">Throws exception if startingIndex and endingIndex is negative. Throws exception if endIndex is lower than startIndex. Throws exception if converted data overflows int32.</exception>
+        public static double ToDouble(string data, int startIndex, int endIndex)
+        {
+            if (startIndex < 0 && endIndex < 0)
+            {
+                throw new Exception("startIndex and endIndex must be positive numbers.");
+            }
+
+            if (endIndex < startIndex)
+            {
+                throw new Exception("endIndex must be higher than startIndex");
+            }
+
+            double result;
+
+            if (startIndex < 1)
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.Append(data.Substring(startIndex, (endIndex - startIndex)));
+
+                sb.Insert(1, ".");
+
+                double.TryParse(sb.ToString(), out result);
+            }
+            else
+            {
+                double.TryParse(data.Substring(startIndex, (endIndex - startIndex)), out result);
+            }
+
+            return result;
+        }
+
         /// <summary>
         /// Maximum available digits of number Phi. "1.6180..."
         /// </summary>
@@ -412,6 +512,4 @@ namespace MathmeticalConstants
         /// </summary>
         public static int LengthWeierstrass => Weierstrass.Length;
     }
-
-    
 }

@@ -92,6 +92,17 @@ String formatted mathematical constants are presented with their Wikipedia link,
 | Weierstrass			| 0.4749	| [Weierstrass](https://en.wikipedia.org/wiki/Weierstrass)							| https://oeis.org/A094692	| [Wikipedia](https://en.wikipedia.org/wiki/Weierstrass)						|
 
 ### Example Usage
+```
+ToDouble(PiNumber, 0, 5); // returns 3.1415
+```
+
+```
+ToInt32(ENumber, 1, 7); // return 71828 (from 2.71828...)
+```
+
+```
+ToInt64(PhiNumber, 1, 10); // return 618033988 (from 1618033988...)
+```
 
 ### Version History
 See [Changelog](https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.md)

@@ -5,19 +5,24 @@
     <ImplicitUsings>disable</ImplicitUsings>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Mathematical Constants</Title>
-    <Version>1.3.4</Version>
+    <Version>1.4.0</Version>
     <Authors>Enes Okullu</Authors>
     <Description>Mathematical Constants is a library, offers 82 mathematical constants upto one million digit on string format.</Description>
     <Copyright>Enes Okullu</Copyright>
     <PackageTags>Math; Mathematical; Numbers; Constants;</PackageTags>
     <PackageReleaseNotes>
-      v1.3.4
-      Data moved to data.cs under src folder.
-      
+      v1.4.0
+      * ToInt32(string data, int startingIndex, int endIndex) method added to convert string numerical data into int32 data type.
+      * ToInt64(string data, int startingIndex, int endIndex) method added to convert string numerical data into int64 data type.
+      * ToDouble(string data, int startingIndex, int endIndex) method added to convert string numerical data into double data type.
+
+      #### Changed
+      * Numerical data moved to data.cs under src folder in order to increase exploring performance due to high amount of data.
+
       See changelog (https://github.com/meokullu/MathematicalConstants/blob/master/CHANGELOG.md)
     </PackageReleaseNotes>
-    <AssemblyVersion>1.3.4</AssemblyVersion>
-    <FileVersion>1.3.4</FileVersion>
+    <AssemblyVersion>1.4.0</AssemblyVersion>
+    <FileVersion>1.4.0</FileVersion>
     <PackageLicenseFile>LICENCE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/meokullu/MathematicalConstants</RepositoryUrl>

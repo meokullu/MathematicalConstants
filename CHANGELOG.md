@@ -11,6 +11,15 @@
 #### Removed
 -->
 
+### [1.4.0]
+#### Added
+* `ToInt32(string data, int startingIndex, int endIndex)` method added to convert string numerical data into int32 data type.
+* `ToInt64(string data, int startingIndex, int endIndex)` method added to convert string numerical data into int64 data type.
+* `ToDouble(string data, int startingIndex, int endIndex)` method added to convert string numerical data into double data type.
+
+#### Changed
+* Numerical data moved to data.cs under src folder in order to increase exploring performance due to high amount of data.
+
 ### [1.3.4]
 #### Changed
 * Number data moved to `data.cs` which is under `src` folder.
