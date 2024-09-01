@@ -33,7 +33,7 @@ namespace MathematicalConstants
                 throw new Exception("startIndex must be higher than in order to return integer data.");
             }
 
-            int.TryParse(data.Substring(startIndex, (endIndex-startIndex)), out int result);
+            int.TryParse(data.Substring(startIndex, (endIndex - startIndex)), out int result);
 
             return result;
         }
@@ -63,7 +63,7 @@ namespace MathematicalConstants
                 throw new Exception("startIndex must be higher than in order to return integer data.");
             }
 
-            long.TryParse(data.Substring(startIndex, (endIndex-startIndex)), out long result);
+            long.TryParse(data.Substring(startIndex, (endIndex - startIndex)), out long result);
 
             return result;
         }
